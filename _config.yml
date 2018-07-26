@@ -16,7 +16,7 @@
 title: Clux
 email: pablomartin.it@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  La plataforma web para clubes barriales
+  La plataforma web para clubes deportivos y sociales
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  pmperez
