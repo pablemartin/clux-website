@@ -5,53 +5,41 @@
 layout: home
 ---
 
-```
-Aplicacion web para clubes deportivos y sociales.
-```
+### Aplicacion web para clubes deportivos y sociales. Con la cobertura de desarrollos abiertos.
 
-## Ver la demo
+- [Demostracion](http://demo.clux.com.ar)
+- [Demostracion Administrador](http://demo.clux.com.ar/admin)
+    - Usuario: admin
+    - Clave: administrador
 
-[Demostracion](http://demo.clux.com.ar) [http://demo.clux.com.ar](http://demo.clux.com.ar)
+### Ya lo usan
 
-## Caracteristicas
+- [Ciencia y Labor](http://clubcienciaylabor.com.ar)
 
-- Administracion de informacion general
-    - Contacto
-    - Historia
-    - Redes sociales
-- Usuarios y permisos para realizar acciones sobre el sistema
-	- Usuario Administrador
-	- Usuario Profesor
-	- Usuario socio (solo para mails de novedades)
-- Administracion de actividades
-	- Gestion de encuentros, reuniones o entrenamientos
-	- Actividades:
-        - Futbol
-            - Administracion de categorias
-            - Administracion de competencias
-            	- Fixture
-            	- Partidos
-            		- Administracion de clubes rivales
-            	- Trofeos
-            - Administracion de galeria
-            - Administracion de noticias
-        - Artes marciales
-            - Administracion de competencias
-            - Administracion de galeria
-            - Administracion de noticias
-        - Danzas
-            - Idem Artes Marciales
-        - Social
-            - Administracion de galeria
-            - Administracion de noticias
-        - Fitness
-            - Idem Danzas
-- Administracion de noticias
-- Administracion de galeria
+### Caracteristicas
 
-## Contacto
+- Informacion general: contacto, historia, redes sociales
+- Usuarios y Grupos de administración ilimitados
+- Actividades
+    - Futbol
+        - Categorías
+        - Competencias
+        	- Fixture
+        	- Partidos
+        	- Trofeos
+    - Artes marciales
+        - Competencias
+    - Danzas
+    - Social
+    - Fitness
+- Publicación de noticias generales y por actividad
+- Galería de imágenes generales y por actividad
+- Cultural
+    - Talleres
+    - Exposiciones
+    - Biblioteca
 
-pablomartin.it@gmail.com
+### Contacto
 
-![](./foto.png)
-
+> pablomartin.it@gmail.com
+> +54-11-2394-9518
