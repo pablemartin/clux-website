@@ -18,6 +18,8 @@ layout: home
 
 ### Caracteristicas
 
+[Documentación](http://docs.clux.com.ar)
+
 - Informacion general: contacto, historia, redes sociales
 - Usuarios y Grupos de administración ilimitados
 - Actividades
